@@ -1,5 +1,5 @@
 ### MAIT_clone_website-HTML
-This is my clone website of MAIT which imade while i just stepped into developing(around 1 year back) and programming world that to just with the help of HTML.
+This is my clone website of MAIT which imade while i just stepped into developing and programming world(around 1 year back) that to just with the help of HTML.
 
 ### sharing my screenshot of the same
 
